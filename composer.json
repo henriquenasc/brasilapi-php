@@ -1,0 +1,17 @@
+{
+    "name": "brasilapi/brasil-api-php",
+    "description": "Biblioteca PHP de integração com o conjunto de apis da BrasilApi",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "BrasilApi\\BrasilApiPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Henrique Nascimento",
+            "email": "henriquenascandrade@gmail.com"
+        }
+    ],
+    "require": {}
+}
