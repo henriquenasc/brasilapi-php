@@ -1,5 +1,5 @@
 {
-    "name": "brasilapi/brasil-api-php",
+    "name": "brasilapi/brasilapi-php",
     "description": "Biblioteca PHP de integração com o conjunto de apis da BrasilApi",
     "type": "library",
     "autoload": {
