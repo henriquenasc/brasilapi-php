@@ -32,7 +32,7 @@ class BrasilApiPhp
         $res = curl_exec($this->curl);
         curl_close($this->curl);
 
-        echo $res;
+        return $res;
     }
 
     public function getAllBanks()
